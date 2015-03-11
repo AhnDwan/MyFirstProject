@@ -21,3 +21,12 @@ int f33() {
 	return z;
 	//What
 }
+
+int f1()
+{
+}
+int f2()
+{}
+int f3()
+{}
+
